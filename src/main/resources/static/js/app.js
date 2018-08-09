@@ -1,0 +1,1 @@
+alert("You are being transmitted to the date template");
